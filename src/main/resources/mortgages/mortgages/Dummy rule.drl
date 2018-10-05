@@ -19,7 +19,7 @@ package mortgages.mortgages
 rule 'Dummy rule'
 
 when
-  //conditions dsdsss
+  //conditions sssssssss
 then
   //actions
 
